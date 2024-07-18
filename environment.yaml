@@ -1,4 +1,4 @@
-name: leetcode
+name: leetcodeNotebook
 channels:
   - defaults
   - conda-forge
